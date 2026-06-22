@@ -1,0 +1,6 @@
+{
+  "name": "YT Downloader Pro",
+  "description": "Pure PHP 8+ YouTube Video downloaer avoiding external APIs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
